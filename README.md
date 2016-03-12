@@ -48,4 +48,6 @@ if you want update them again you can use this commands:
     
     #to update nginx
     docker pull nginx
-    
+
+**use composer**
+docker exec php7 php composer.phar [command]
