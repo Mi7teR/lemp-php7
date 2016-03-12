@@ -50,4 +50,5 @@ if you want update them again you can use this commands:
     docker pull nginx
 
 **use composer**
+
 docker exec php7 php composer.phar [command]
